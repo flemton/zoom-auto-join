@@ -1,0 +1,4 @@
+[tools.py2app.bundle.main]
+
+script = "main.py"
+standalone = true
