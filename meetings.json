@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Example Meeting",
+    "link": "https://microverse.zoom.us/j/91369660757?pwd=example",
+    "time": "09:00",
+    "days": ["monday", "tuesday", "wednesday", "thursday", "friday"]
+  }
+]
